@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hadiepsixiang
 - 🌱 I’m currently learning reactJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - pmhoa132000@gmail.com 
 - https://www.facebook.com/HaDiep0608/
